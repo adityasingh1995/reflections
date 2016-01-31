@@ -1,2 +1,4 @@
 how is the staging area different that the working directory and the repository?
 what value does it offer?
+
+how can you use staging area to make logical changes to your project?

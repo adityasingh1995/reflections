@@ -1,3 +1,5 @@
 this is the third reflections file
 
 1)why must you manually pull branch from origin instead of it being pulled automatically on every change?
+2)What is the benefit of having a copy of the last known state of the remote stored locally?
+
